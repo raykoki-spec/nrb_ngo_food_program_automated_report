@@ -1,0 +1,18 @@
+2026-11-18 15:50:23,253 | Report failed: type object 'datetime.datetime' has no attribute 'datetime'
+2026-11-18 15:53:21,662 | Report failed: 'Column not found: total_value'
+2026-11-18 15:55:55,226 | Report failed: list.append() takes exactly one argument (2 given)
+2026-11-18 16:02:17,699 | Report failed: ['attendance_rate', 'gain_per_month']
+2026-11-18 16:13:04,868 | Report failed: [Errno 2] No such file or directory: 'attendance_vs_gain.png'
+2026-11-18 16:14:41,873 | Report failed: unsupported format string passed to Series.__format__
+2026-11-18 16:27:35,995 | Report generated and saved OK
+2026-11-18 16:29:24,462 | Report generated and saved OK
+2026-11-18 17:20:43,309 | Report failed: build_html_report() missing 1 required positional argument: 'run_date'
+2026-11-18 17:25:22,827 | Report failed: cannot access local variable 'run_date' where it is not associated with a value
+2026-11-18 17:28:06,931 | Report failed: 'best_county'
+2026-11-18 17:35:45,489 | Report failed: 'top_county'
+2026-11-18 17:39:15,632 | Report failed: 'best_age_group'
+2026-11-18 17:42:24,656 | Report generated and saved OK
+2026-11-18 18:31:13,508 | Report failed: cannot access local variable 'age_group' where it is not associated with a value
+2026-11-18 18:33:17,031 | Report generated and saved OK
+2026-11-18 18:35:44,887 | Report generated and saved OK
+2026-11-18 18:39:36,603 | Report generated and saved OK

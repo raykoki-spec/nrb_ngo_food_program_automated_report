@@ -10,13 +10,18 @@ The report is a single .html file. She can open it in any browser, print it, or 
 - A one-paragraph summary: average attendance, average weight gain per month, best county and best-performing age group
 - Three embedded charts:
 1. Best county by average weight gain
-![best_perfoming)county](charts/best_performing_county.png)
+
 2. Best performing age-group by average weight gain
-![best_performing_agegroup](charts/best_performing_agegroup.png)
+
 3. Attendance vs weight gain, a scatter plot with a trend line
-![attendance_vs_gain](charts/attendance_vs_gain.png)
+
 
 Each run is saved as a dated file, for example reports/report_2026-11-23.html, so earlier reports are never overwritten.
+![html1](charts/image_html1.png)
+
+![html2](charts/image_html2.png)
+
+
 
 ## How it works
 

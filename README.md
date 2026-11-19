@@ -65,7 +65,7 @@ It checks the clock every 60 seconds and builds the report on Monday at 07:00. T
 
 ## Pricing note
 
-KES 15,000 for monthly retainer. KES 65,000 for weekly automated report.
+KES 5,000 for monthly retainer. KES 35,000 for weekly automated report.
 
 ## Stack
 
